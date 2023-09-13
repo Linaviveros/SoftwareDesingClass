@@ -1,2 +1,2 @@
 # SoftwareDesingClass
-Proyecto diseño de software
+Repositorio principal para el desarrollo del proyecto de la clase diseño de software
