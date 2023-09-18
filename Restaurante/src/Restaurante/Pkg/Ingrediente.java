@@ -61,6 +61,6 @@ public class Ingrediente {
 	                + ", sitioCompra=" + sitioCompra + ", caloriasUnidad=" + caloriasUnidad + "]";
 	    
 		}
-
+#hagan solo comentarios, no editen el codigo
 }
 
