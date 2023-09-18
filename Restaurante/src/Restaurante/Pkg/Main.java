@@ -7,7 +7,6 @@ import java.util.ArrayList;
 public class Main {
 	
 		public static void main(String[] args) {
-	        
 			
 	        Ingrediente ingrediente1 = new Ingrediente(" Leche", " 1 Litro", 10000.0, Proveedor.COLANTA, 558.0);
 	        Ingrediente ingrediente2 = new Ingrediente(" Carne de res", " 1 Kilogramo", 13000.0, Proveedor.CARNESSABASTIAN, 156.0);
@@ -15,6 +14,7 @@ public class Main {
 	        Scanner sc = new Scanner(System.in);
 	       	System.out.println("1- Editar receta 2- Eliminar Receta 3- Continuar");
 	       	String eleccion = sc.nextLine();
+			//Para hacer participar a los usuarios y no solo al programador
 	        switch (eleccion){
 	        	case "1":	
 	        		System.out.println("Editar ingrediente 1, 2 para eliminar, 3 agregar ingrediente, 4 para ver los ingredientes");
